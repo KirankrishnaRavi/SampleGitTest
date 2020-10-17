@@ -1,4 +1,4 @@
 line 1
 Updated line no 2 from git again.
-Line no 3 added.
+line 3 from terminal.
 Line no 4 added.
