@@ -1,3 +1,3 @@
-Hello World!
+Hello World! is updated from Git.
 Updated line no 2 from git
 New line 3 from terminal
